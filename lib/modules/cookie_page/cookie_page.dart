@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../cookie_detail/cookie_detail.dart';
-// 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
+
 class CookiePage extends StatelessWidget {
   const CookiePage({Key? key}) : super(key: key);
 
