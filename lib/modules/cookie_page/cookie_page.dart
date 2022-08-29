@@ -5,8 +5,6 @@ import '../cookie_detail/cookie_detail.dart';
 class CookiePage extends StatelessWidget {
   const CookiePage({Key? key}) : super(key: key);
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
